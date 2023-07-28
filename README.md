@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 💬 Ask me about **JAVA, MySql**
+- 💬 Ask me about **JAVA, C++, MySql**
 
 - 📫 How to reach me **kumarsachin6189@gmail.com**
 
-- ⚡ Fun fact **I am a very curious person**
+- ⚡ Fun fact **I am a very curious person🦝🦝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
