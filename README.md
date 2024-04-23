@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 💬 Ask me about **JAVA, C++, MySql**
+- 💬 Ask me about **JAVA, C++, MySql, React JS, Node JS, JavaScript, Tailwind, CSS, HTML**
 
 - 📫 How to reach me **kumarsachin6189@gmail.com**
 
